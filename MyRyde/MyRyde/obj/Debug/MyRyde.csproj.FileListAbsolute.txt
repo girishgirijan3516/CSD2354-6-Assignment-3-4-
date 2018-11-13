@@ -1,0 +1,11 @@
+C:\Users\girish\source\repos\MyRyde\MyRyde\bin\Debug\MyRyde.exe.config
+C:\Users\girish\source\repos\MyRyde\MyRyde\bin\Debug\MyRyde.exe
+C:\Users\girish\source\repos\MyRyde\MyRyde\bin\Debug\MyRyde.pdb
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.frm_start.resources
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.Properties.Resources.resources
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.csproj.GenerateResource.cache
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.csproj.CoreCompileInputs.cache
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.exe
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.pdb
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.Ride_Details.resources
+C:\Users\girish\source\repos\MyRyde\MyRyde\obj\Debug\MyRyde.csprojAssemblyReference.cache
